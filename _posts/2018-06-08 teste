@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: "teste post"
+description: testando post.
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
 category: 'blog'
 tags:
